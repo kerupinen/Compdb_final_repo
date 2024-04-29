@@ -1,2 +1,4 @@
 # Compdb_final_repo
 For the final project, I Kristen Rupinenc(Github username kerupinen), will be working on an analysis of the elon-centric SQL database. I will query the database to find which days (Monday-Sunday) and which weeks of the month (first-last week) would be the best for tweeting for engagement (retweet and likes). I will then compare Elon Musk’s tweeting days to this to see if he posts during the most optimal times. In order to compare what I find as the best engagement day (e.g. Monday) with the engagement on all the other days combined, I will use a one sample t-test. I will additionally possibly use an ANOVA test using Minitab statistical software.
+
+https://docs.google.com/presentation/d/1bPXJWZJxGLqtQ-4tQBKb0-cFRiALSw-7/edit?usp=sharing&ouid=104548018722521109053&rtpof=true&sd=true
